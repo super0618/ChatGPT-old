@@ -1,1 +1,1 @@
-Wordpress ChatbotUI page
+Next.js ChatGPT Application
